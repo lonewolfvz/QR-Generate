@@ -27,7 +27,7 @@ html {
 }
 body{
   height: 100vh;
-      background-color: rgb(10, 10, 10);
+      background-color:rgb(117, 117, 117);
 }
 main{
 
@@ -64,7 +64,7 @@ main{
     border-radius: 10px;
     padding: 10px 25px;
     background: transparent;
-    width: 600px;
+    width: 300px;
    }
    
    .input:active {
@@ -151,7 +151,7 @@ main{
 }
 .submit:hover{
     border-radius: 5px;
-    background: #6aff03;
+    background: grey;
     color: white;
     border: 2px solid #000000;
 
